@@ -1,15 +1,15 @@
 🧠 Skin Disease Classification using MetaCLIP
 
-📌 Project Overview
+📌 Project Overview:
    This project presents an advanced AI-based skin disease classification system using MetaCLIP (Vision-Language Models).
    It focuses on improving diagnostic accuracy by leveraging multimodal learning across multiple datasets.
 
 
-🎯 Objective
+🎯 Objective:
    To evaluate multiple classifiers across multiple datasets and identify the most accurate model for skin disease detection.
    
 
-🧠 Methodology
+🧠 Methodology:
    → Feature Extraction using MetaCLIP
    → Classification using ML Classifiers:
      - Support Vector Classifier (SVC)
@@ -18,7 +18,7 @@
      - ...etc.
 
 
-📊 Results
+📊 Results:
    → Achieved up to 99% accuracy up on CSV Classifier
    → High performance across 15 datasets
    → Evaluation Metrics:
@@ -28,12 +28,13 @@
      - F1 Score
 
 
-📁 Project Structure
+📁 Project Structure:
    - notebooks → code
    - report → project report
    - Datasets → Skin_Dataset_Table
 
-🛠️ Tech Stack
+
+🛠️ Tech Stack:
    - Python
    - Deep Learning
    - MetaCLIP
@@ -41,7 +42,7 @@
    - NumPy, Pandas
 
 
-📌 Future Work
+📌 Future Work:
    - Real-time disease detection
    - Mobile application integration
 
@@ -53,5 +54,5 @@
    T. Naga Malleswari
 
 
-⭐ Key Highlight
+⭐ Key Highlight:
    MetaCLIP enables both global context understanding + fine detail detection, making it superior to traditional CNN-based approaches.
