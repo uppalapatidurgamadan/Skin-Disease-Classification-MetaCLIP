@@ -60,3 +60,7 @@
 
 ⭐ Key Highlight:
    MetaCLIP enables both global context understanding + fine detail detection, making it superior to traditional CNN-based approaches.
+
+
+   <img width="1177" height="540" alt="image" src="https://github.com/user-attachments/assets/62e11893-be76-4fca-b074-e7e3ae5c7d44" />
+
