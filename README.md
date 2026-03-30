@@ -1,4 +1,4 @@
-🧠 Skin Disease Classification using MetaCLIP
+## Skin Disease Classification using MetaCLIP
 
 📌 Project Overview:
 
