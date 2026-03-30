@@ -61,6 +61,7 @@
 ⭐ Key Highlight:
    MetaCLIP enables both global context understanding + fine detail detection, making it superior to traditional CNN-based approaches.
 
+Most common skin disease:
+<img width="1131" height="466" alt="image" src="https://github.com/user-attachments/assets/78c0c2d0-14be-40b2-a47e-439dde21ab2e" />
 
-   <img width="1177" height="540" alt="image" src="https://github.com/user-attachments/assets/62e11893-be76-4fca-b074-e7e3ae5c7d44" />
 
