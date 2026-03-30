@@ -9,7 +9,10 @@
 🎯 Objective:
 
    To evaluate multiple classifiers across multiple datasets and identify the most accurate model for skin disease detection.
-   
+
+🩺 Most common skin disease:
+
+<img width="1131" height="466" alt="image" src="https://github.com/user-attachments/assets/78c0c2d0-14be-40b2-a47e-439dde21ab2e" />
 
 🧠 Methodology:
 
@@ -61,7 +64,6 @@
 ⭐ Key Highlight:
    MetaCLIP enables both global context understanding + fine detail detection, making it superior to traditional CNN-based approaches.
 
-Most common skin disease:
-<img width="1131" height="466" alt="image" src="https://github.com/user-attachments/assets/78c0c2d0-14be-40b2-a47e-439dde21ab2e" />
+
 
 
