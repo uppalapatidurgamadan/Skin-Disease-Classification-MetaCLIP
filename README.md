@@ -2,13 +2,12 @@
 
 📌 Project Overview
    This project presents an advanced AI-based skin disease classification system using MetaCLIP (Vision-Language Models).
-
    It focuses on improving diagnostic accuracy by leveraging multimodal learning across multiple datasets.
 
 
 🎯 Objective
    To evaluate multiple classifiers across multiple datasets and identify the most accurate model for skin disease detection.
-
+   
 
 🧠 Methodology
    → Feature Extraction using MetaCLIP
