@@ -18,4 +18,7 @@ This project uses MetaCLIP and deep learning to identify Mechine Learning classi
 - paper → research paper
 
 ## Author
-Durga Madan
+U. Durga Madan
+S. Akhil
+SD. Firoz
+T. Naga Malleswari
