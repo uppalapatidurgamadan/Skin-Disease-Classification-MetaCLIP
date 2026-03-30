@@ -10,7 +10,7 @@
 
    To evaluate multiple classifiers across multiple datasets and identify the most accurate model for skin disease detection.
 
-🩺 Most common skin disease:
+🚨 High Risk Skin Disease:
 
 <img width="1131" height="466" alt="image" src="https://github.com/user-attachments/assets/78c0c2d0-14be-40b2-a47e-439dde21ab2e" />
 
