@@ -31,7 +31,9 @@
 
 
    → Achieved up to 99% accuracy up on CSV Classifier
-   → High performance across 15 datasets
+   <img width="915" height="427" alt="image" src="https://github.com/user-attachments/assets/5464872d-be7f-44ab-93c1-f064277b372a" />
+
+   → CSV High performance across 15 datasets
    → Evaluation Metrics:
      - Accuracy
      - Precision
