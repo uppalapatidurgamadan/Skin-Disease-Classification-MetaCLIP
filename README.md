@@ -51,7 +51,7 @@
    - Mobile application integration
 
 
-👨‍💻 Authors
+👨‍💻 Authors:
    U. Durga Madan
    S. Akhil
    SD. Firoz
