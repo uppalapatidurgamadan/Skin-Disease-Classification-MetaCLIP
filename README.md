@@ -28,11 +28,11 @@
 
     Accuracy comparison of 15 datasets across (80-20) % and (90-10) % cross -validation:
    <img width="893" height="441" alt="image" src="https://github.com/user-attachments/assets/86cc8ae1-bd9b-4054-b1b0-04b7a1e2ed1c" /><img width="893" height="220" alt="image" src="https://github.com/user-attachments/assets/8746c4eb-292e-43c3-83a4-f32f0203c439" />
-
-
-   → Achieved up to 99% accuracy up on CSV Classifier
+   
+      5-Common-Human -Skin-Disease dataset achive 99%accuracy using CSV ML classifier
    <img width="915" height="427" alt="image" src="https://github.com/user-attachments/assets/5464872d-be7f-44ab-93c1-f064277b372a" />
-
+   
+   → Achieved up to 99% accuracy up on CSV Classifier
    → CSV High performance across 15 datasets
    → Evaluation Metrics:
      - Accuracy
